@@ -10,6 +10,3 @@
 \value{
     TRUE
 }
-\examples{
-    test()
-}
