@@ -4,9 +4,14 @@
 \alias{test}
 \title{A simple test function}
 \usage{
-test()
+    test()
 }
 \description{
-A simple test function
+    A simple test function
 }
-
+\value{
+    TRUE
+}
+\examples{
+    test()
+}

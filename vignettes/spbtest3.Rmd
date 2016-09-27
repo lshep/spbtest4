@@ -1,0 +1,26 @@
+---
+title: "BiocCheck"
+output:
+  BiocStyle::html_document:
+vignette: >
+  %\VignetteIndexEntry{spbtest3}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}  
+---
+# Introduction
+Needed a test vignette
+
+## test spbtest3
+So creating a test vignette
+
+## subsection
+to run to make sure 
+
+# Methods
+can run without error
+
+# R session information
+
+```{r sessionInfo, eval=TRUE}
+sessionInfo()
+```
