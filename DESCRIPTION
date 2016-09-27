@@ -13,7 +13,7 @@ Depends:
 License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
-biocViews: Infastructure, DataImport
+biocViews: DataImport
 RoxygenNote: 5.0.1
 VignetteBuilder: knitr
 Suggests: BiocStyle, knitr
