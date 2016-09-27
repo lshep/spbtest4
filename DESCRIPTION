@@ -10,6 +10,7 @@ Maintainer: Lori Shepherd <Lori.Shepherd@roswellpark.org>
 Author: Lori Shepherd [aut]
 Depends:
     R (>= 3.3.1), abind, KEGGgraph
+Encoding: UTF-8
 License: Artistic-2.0
 LazyData: true
-biocViews: DataImport
+biocViews: Infastructure, DataImport
