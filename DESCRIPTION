@@ -12,4 +12,4 @@ Depends:
     R (>= 3.3.1), abind, KEGGgraph
 License: Artistic-2.0
 LazyData: true
-biocViews: Infastructure, DataImport
+biocViews: DataImport
