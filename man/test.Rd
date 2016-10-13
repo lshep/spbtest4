@@ -8,3 +8,6 @@
     A simple test function
 }
 \value{a logical TRUE}   
+\example{
+    test(help)
+}   
