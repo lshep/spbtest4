@@ -7,7 +7,7 @@
 \description{
     A simple test function
 }
-\value{a logical TRUE}   
+\value{A logical TRUE}   
 \examples{
     test()
 }       
