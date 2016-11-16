@@ -9,5 +9,5 @@
 }
 \value{A logical TRUE}   
 \examples{
-    test(help)
+    test()
 }   
