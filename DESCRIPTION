@@ -9,6 +9,8 @@ Description: What the package does (one paragraph).
 Maintainer: Lori Shepherd <Lori.Shepherd@roswellpark.org>
 Author: Lori Shepherd [aut]
 Depends: R (>= 3.4)
+Suggests: knitr
+VignetteBuilder: knitr
 License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
