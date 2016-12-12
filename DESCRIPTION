@@ -8,8 +8,7 @@ Authors@R: c(person("Lori", "Shepherd",
 Description: What the package does (one paragraph).
 Maintainer: Lori Shepherd <Lori.Shepherd@roswellpark.org>
 Author: Lori Shepherd [aut]
-Depends:
-    R (>= 3.4), abind, KEGGgraph
+Depends: R (>= 3.4)
 License: Artistic-2.0
 LazyData: true
 biocViews: DataImport
