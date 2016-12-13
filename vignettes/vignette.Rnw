@@ -1,0 +1,13 @@
+%\VignetteIndexEntry{spbtest3 Vignette}
+%\VignetteDepends{}
+%\VignetteKeywords{random mapping}
+%\VignettePackage{spbtest3}
+
+\documentclass[11pt]{article}
+<<style-Sweave, eval=TRUE, echo=FALSE, results=tex>>=
+BiocStyle::latex()
+@
+
+\begin{document}
+Hello world.
+\end{document}
