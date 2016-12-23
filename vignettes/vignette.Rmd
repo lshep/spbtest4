@@ -1,0 +1,20 @@
+---
+title: "Normalizing Illumina Infinium"
+author: "\\
+      Celia Greenwood"
+date: "`r Sys.Date()`"
+output:
+      BiocStyle::pdf_document:
+            toc: true
+vignette: >
+  %\VignetteIndexEntry{Normalizing Illumina Infinium}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r style, echo=FALSE, results="asis", message=FALSE}
+BiocStyle::markdown()
+knitr::opts_chunk$set(tidy = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+```
