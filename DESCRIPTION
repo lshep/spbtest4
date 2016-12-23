@@ -8,7 +8,5 @@ Authors@R: c(person("Lori", "Shepherd",
 Description: What the package does (one paragraph).
 Maintainer: Lori Shepherd <Lori.Shepherd@roswellpark.org>
 Author: Lori Shepherd [aut]
-Depends: R (>= 3.4)
-Suggests: BiocStyle
 License: Artistic-2.0
 biocViews: DataImport
