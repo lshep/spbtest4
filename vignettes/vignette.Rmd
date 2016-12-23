@@ -3,6 +3,7 @@ title: "Normalizing Illumina Infinium"
 author: "\\
       Celia Greenwood"
 date: "`r Sys.Date()`"
+bibliography: MyEndnoteLibrary.bib
 output:
       BiocStyle::pdf_document:
             toc: true
@@ -18,3 +19,6 @@ knitr::opts_chunk$set(tidy = FALSE,
                       warning = FALSE,
                       message = FALSE)
 ```
+[@Fortin2014;@Aryee2014]
+
+# References
