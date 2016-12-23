@@ -7,6 +7,8 @@ bibliography: MyEndnoteLibrary.bib
 output:
       BiocStyle::pdf_document:
             toc: true
+      BiocStyle::html_document:
+            toc: true
 vignette: >
   %\VignetteIndexEntry{Normalizing Illumina Infinium}
   %\VignetteEngine{knitr::rmarkdown}
@@ -19,6 +21,9 @@ knitr::opts_chunk$set(tidy = FALSE,
                       warning = FALSE,
                       message = FALSE)
 ```
+
 [@Fortin2014;@Aryee2014]
+
+$N=6$ $log(Meth/nmeth)$ __M__
 
 # References
