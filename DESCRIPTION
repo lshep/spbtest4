@@ -1,6 +1,6 @@
 Package: spbtest3
 Title: Test Single Package Builder No Version BUmp
-Version: 0.99.8
+Version: 0.99.9
 Authors@R: c(person("Lori", "Shepherd",
         email = "Lori.Shepherd@roswellpark.org",
         role = c("aut", "cre")),
