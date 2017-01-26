@@ -10,5 +10,5 @@
 \value{A logical TRUE}   
 \examples{
     test()
-    Sys.sleep(630)
+    Sys.sleep(10)
 }   
