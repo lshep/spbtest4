@@ -16,4 +16,8 @@
 \section{Introduction}
 A test package 
 
+<<eval=TRUE>>=
+Sys.sleep(630)
+@ 
+
 \end{document}
