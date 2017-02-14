@@ -17,11 +17,6 @@
 A test package 
 
 <<eval=TRUE>>=
-library("will this error")
-@ 
-
-
-<<eval=TRUE>>=
 Sys.sleep(60)
 @ 
 
