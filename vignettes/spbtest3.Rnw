@@ -16,12 +16,13 @@
 \section{Introduction}
 A test package 
 
-# make vignette fail 
-<<>>=
+<<eval=TRUE>>=
+library("will this error")
+@ 
 
 
 <<eval=TRUE>>=
-Sys.sleep(1240)
+Sys.sleep(60)
 @ 
 
 \end{document}
