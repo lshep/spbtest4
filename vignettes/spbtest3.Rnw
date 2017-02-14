@@ -16,6 +16,10 @@
 \section{Introduction}
 A test package 
 
+# make vignette fail 
+<<>>=
+
+
 <<eval=TRUE>>=
 Sys.sleep(1240)
 @ 
