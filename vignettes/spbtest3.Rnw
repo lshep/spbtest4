@@ -17,7 +17,7 @@
 A test package 
 
 <<eval=TRUE>>=
-Sys.sleep(95)
+Sys.sleep(20)
 @ 
 
 \end{document}
