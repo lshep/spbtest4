@@ -17,6 +17,7 @@
 A test package 
 
 <<eval=TRUE>>=
+library("thisshouldfail")
 Sys.sleep(70)
 @ 
 
