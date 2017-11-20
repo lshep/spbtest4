@@ -1,6 +1,6 @@
 Package: spbtest3
 Title: Test Single Package Builder
-Version: 0.99.41
+Version: 0.99.42
 Authors@R: c(person("Lori", "Shepherd",
         email = "Lori.Shepherd@roswellpark.org",
         role = c("aut", "cre")),
