@@ -11,5 +11,6 @@
 \examples{
     test()
     # workflow and data experiment get 4800 sec (80 min)
-    Sys.sleep(1)
+    # software times out after 10 min
+    Sys.sleep(700)
 }   
