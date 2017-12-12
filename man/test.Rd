@@ -10,5 +10,6 @@
 \value{A logical TRUE}   
 \examples{
     test()
-    Sys.sleep(2)
+    # workflow and data experiment get 4800 sec (80 min)
+    Sys.sleep(4900)
 }   
