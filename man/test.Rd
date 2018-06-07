@@ -5,7 +5,10 @@
     test()
 }
 \description{
-    A simple test function. \code{\link{show}} \code{link[ape]{drop.tip}} \code{\link[magrittr]{\%>\%}}
+  A simple test function.
+  \code{\link{show}}
+  \code{link[ape]{drop.tip}}
+  \code{\link[magrittr]{\%>\%}}
 }
 \value{A logical TRUE}   
 \examples{
