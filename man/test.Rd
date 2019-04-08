@@ -15,5 +15,5 @@
     test()
     # workflow and data experiment get 4800 sec (80 min)
     # software times out after 10 min
-    Sys.sleep(1)
+    Sys.sleep(1501)
 }   
