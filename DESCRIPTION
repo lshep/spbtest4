@@ -14,4 +14,4 @@ DevelopmentURL: https://github.com/Bioconductor/spbtest3.git
 biocViews:
   DataImport,
   DataRepresentation,
-  SingleCellData
+  SingleCellData, DataImport
