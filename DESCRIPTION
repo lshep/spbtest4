@@ -16,4 +16,5 @@ biocViews:
   DataRepresentation,
   SingleCellData, DataImport,
   SingleCellData,
-  ABadBiocView 
+  ABadBiocView,
+  AnotherBadView
